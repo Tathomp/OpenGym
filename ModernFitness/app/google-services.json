@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754168924694",
+    "firebase_url": "https://modern-fitness-f149d.firebaseio.com",
+    "project_id": "modern-fitness-f149d",
+    "storage_bucket": "modern-fitness-f149d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754168924694:android:8023de006c161b75",
+        "android_client_info": {
+          "package_name": "com.tylerthompson1492.modernfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754168924694-m7se5r81pcf3rnfgf3oiv5gvv02umnn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5WonT-pb9u48b53rV9zUJF5ep5WGPsqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
